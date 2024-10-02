@@ -6,7 +6,7 @@ terraform {
   required_providers {
     harbor = {
       source  = "goharbor/harbor"
-      version = "3.10.8"
+      version = "3.10.15"
     }
     null = {
       source  = "hashicorp/null"
